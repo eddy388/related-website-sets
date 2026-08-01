@@ -1,4 +1,4 @@
-{
+all,acceses {
   "name": "Default",
   "image": "mcr.microsoft.com/devcontainers/python:3.13",
   "features": {
